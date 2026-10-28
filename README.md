@@ -1,3 +1,3 @@
 - 👋 Hello, am I @Deaquans?
-- 🌱 I’m currently working on Small Hours, an ambitious text-based life simulator designed to bring an unprecedented level of depth, freedom, and possibilities to PC!
+- 🌱 I’m currently working on **Small Hours**, an ambitious text-based life simulator designed to bring an unprecedented level of depth, freedom, and possibilities to PC!
 - 💞️ I’m looking to collaborate on N/A...
